@@ -1,6 +1,6 @@
 window.LANDING_CONFIG = {
-  "brandShort": "TS. BS VÕ VĂN THANH",
-  "title": "TS. BS VÕ VĂN THANH",
+  "brandShort": "ThS. BS NGÔ THANH TÚ",
+  "title": "ThS. BS NGÔ THANH TÚ",
   "titleLine2": "",
   "subtitle": "Bệnh viện Đại học Y Dược - Đại học Quốc gia Hà Nội - Cơ sở Linh Đàm",
   "departmentInfo": "Khoa Phẫu thuật cột sống",
