@@ -5,13 +5,13 @@ window.LANDING_CONFIG = {
   "subtitle": "Bệnh viện Đại học Y Dược - Đại học Quốc gia Hà Nội - Cơ sở Linh Đàm",
   "departmentInfo": "Khoa Phẫu thuật cột sống",
   "departmentInfoLine2": "",
-  "phone": "0963951234",
+  "phone": "0984321750",
   "hotline": "0948423636",
-  "email": "thanhvv@hump.vn",
+  "email": "bsngothanhtu@gmail.com",
   "social": {
     "map": "https://www.google.com/maps?q=B%E1%BB%87nh+vi%E1%BB%87n+%C4%90%E1%BA%A1i+h%E1%BB%8Dc+Y+D%C6%B0%E1%BB%A3c+-+C%C6%A1+s%E1%BB%9F+Linh+%C4%90%C3%A0m,+189+P.+Linh+%C4%90%C6%B0%E1%BB%9Dng,+Ho%C3%A0ng+Li%E1%BB%87t,+H%C3%A0+N%E1%BB%99i&ftid=0x3135ad4348e047eb:0x79a187d07afb2de1&entry=gps&shh=CAE&lucs=,94297699,94284487,94231188,94280568,47071704,94218641,94282134,94286869&g_ep=CAISEjI2LjEzLjYuODg4MzU5NjE4MBgAIIgnKkgsOTQyOTc2OTksOTQyODQ0ODcsOTQyMzExODgsOTQyODA1NjgsNDcwNzE3MDQsOTQyMTg2NDEsOTQyODIxMzQsOTQyODY4NjlCAlZO&skid=03773c89-8a6b-4014-b263-d72343eda1d3&g_st=ic",
-    "facebook": "https://www.facebook.com/profile.php?id=61577820713965",
-    "zalo": "https://zalo.me/0963951234",
+    "facebook": "https://www.facebook.com/van.thanhtu",
+    "zalo": "https://zalo.me/0984321750",
     "hotlineZalo": "https://zalo.me/0948423636"
   },
   "theme": {
@@ -20,7 +20,7 @@ window.LANDING_CONFIG = {
   "socialProfiles": {
     "facebook": {
       "enabled": true,
-      "url": "https://www.facebook.com/profile.php?id=61577820713965",
+      "url": "https://www.facebook.com/van.thanhtu",
       "label": "Facebook"
     },
     "youtube": {
@@ -35,12 +35,12 @@ window.LANDING_CONFIG = {
     },
     "zalo": {
       "enabled": true,
-      "url": "https://zalo.me/0963951234",
+      "url": "https://zalo.me/0984321750",
       "label": "Gửi phim X-quang / MRI / CT"
     },
     "whatsapp": {
       "enabled": true,
-      "url": "https://api.whatsapp.com/send?phone=84963951234",
+      "url": "https://api.whatsapp.com/send?phone=84984321750",
       "label": "WhatsApp"
     }
   },
@@ -105,7 +105,6 @@ window.LANDING_CONFIG = {
             "title": "Chức vụ",
             "items": [
               "Bác sĩ khoa Phẫu thuật cột sống, Bệnh viện Đại học Y Dược, Đại học Quốc gia Hà Nội - cơ sở Linh Đàm.",
-              "Giảng viên bộ môn Phẫu thuật cột sống, Trường Đại học Y dược, Đại học Quốc gia Hà Nội."
             ]
           },
           {
