@@ -522,13 +522,13 @@ const iconMarkup = {
     </svg>
   `,
   zalo: `
-    <img src="/assets/logo%20zalo.jpg" alt="" />
+    <img src="./assets/logo%20zalo.jpg" alt="" />
   `,
   hotline: `
-    <img src="/assets/icon-hotline.gif" alt="" />
+    <img src="./assets/icon-hotline.gif" alt="" />
   `,
   doctor: `
-    <img src="/assets/icon%20doctor.png" alt="" />
+    <img src="./assets/icon%20doctor.png" alt="" />
   `,
   youtube: `
     <svg viewBox="0 0 64 64" role="presentation" aria-hidden="true">
