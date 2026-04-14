@@ -98,7 +98,7 @@ window.LANDING_CONFIG = {
     "locales": {
       "vi": {
         "imageAlt": "",
-        "name": "TS. BS VÕ VĂN THANH",
+        "name": "ThS. BS NGÔ THANH TÚ",
         "nameLine2": "",
         "sections": [
           {
@@ -137,19 +137,17 @@ window.LANDING_CONFIG = {
           {
             "title": "Quá trình công tác",
             "items": [
-              "2014 - 2025:",
-              "+ Giảng viên Bộ môn Ngoại, Đại học Y Hà Nội.",
+              "2016 - 2025:",
               "+ Bác sĩ khoa Phẫu thuật cột sống, Bệnh viện Hữu Nghị Việt Đức.",
               "2025 - nay:",
-              "+ Giảng viên Bộ môn Phẫu thuật cột sống, Đại học Y Dược Quốc gia.",
-              "+ Bác sĩ khoa Phẫu thuật cột sống, Bệnh viện Đại học Y Dược - Cơ sở Linh Đàm"
+              "+ Bác sĩ khoa Phẫu thuật cột sống, Bệnh viện Đại học Y Dược, Đại học Quốc gia Hà Nội - Cơ sở Linh Đàm"
             ]
           }
         ]
       },
       "en": {
         "imageAlt": "",
-        "name": "VO VAN THANH, MD, PhD",
+        "name": "NGO THANH TU, MD, PhD",
         "nameLine2": "",
         "sections": [
           {
