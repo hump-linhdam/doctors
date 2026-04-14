@@ -479,7 +479,7 @@ function normalizeLandingConfig(rawConfig) {
     config.socialProfiles.whatsapp.label || config.buttons.dock.whatsapp || "WhatsApp",
   ).trim() || "WhatsApp";
 
-  ["vi", "en"].forEach((locale) => {
+  ["vi"].forEach((locale) => {
     const localeConfig = config.biography?.locales?.[locale];
 
     if (!localeConfig) {
